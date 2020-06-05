@@ -9,7 +9,7 @@ wantsPay (boolean)
 
 Methods:
 
-addChair: seats++
+addChair: seats + 1
 fill: isOccupied = true
 takeOrder: push a random menu item for each seat to ordered
 giveFood: ordered = [] and wantsPay = true
