@@ -7,6 +7,8 @@ tables (Array)
 cashTaken (int)
 hadBreak (bool)
 
+Methods:
+
 giveTable (push a number into the table array)
 closeTable (shift a number off the table array and add $20 to cashTaken)
 relieve (change hadBreak to true)

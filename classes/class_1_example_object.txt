@@ -1,0 +1,12 @@
+greatServer
+
+name: "Matthew"
+tables: [1, 2, 3, 4]
+cashTaken: 0
+hadBreak: false
+
+giveTable: tables = [1, 2, 3, 4, 5]
+closeTable: tables = [2, 3, 4, 5]
+            cashTaken = 20
+relieve: hadBreak = true
+createNickName: name = "Sport"
