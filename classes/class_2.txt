@@ -1,0 +1,15 @@
+Class Table
+
+Attributes:
+
+seats (int)
+isOccupied (boolean)
+ordered (array)
+wantsPay (boolean)
+
+Methods:
+
+addChair: seats++
+fill: isOccupied = true
+takeOrder: push a random menu item for each seat to ordered
+giveFood: ordered = [] and wantsPay = true
