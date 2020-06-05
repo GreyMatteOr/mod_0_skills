@@ -1,0 +1,12 @@
+table4
+
+seats: 2
+isOccupied: false
+ordered: []
+wantsPay: false
+
+addChair: seats = 2 + 1
+fill: isOccupied = true
+takeOrder: ordered = ["Steak", "Sandwich", "Salad"]
+giveFood: ordered = []
+          wantsPay = true
